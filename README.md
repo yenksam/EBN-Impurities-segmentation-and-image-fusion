@@ -16,4 +16,4 @@ MIT License — free to use with proper attribution.
 
 Author
 
-Your Name | https://github.com/yenksam
+yenksam | https://github.com/yenksam
